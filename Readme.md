@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Пухальский](https://up.htmlacademy.ru/javascript/14/user/118145).
-* Наставник: `Неизвестно`.
+* Наставник: `Анна Тюрина`.
 
 ---
 
